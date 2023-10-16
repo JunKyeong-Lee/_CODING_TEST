@@ -1,17 +1,22 @@
 package chap03;
+// https://www.acmicpc.net/problem/11003
 
+import java.io.*;
 import java.util.Deque;
 import java.util.LinkedList;
-import java.util.Scanner;
+import java.util.StringTokenizer;
 
-public class _10_11003 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int N = sc.nextInt();
-        int L = sc.nextInt();
+public class _010_2 {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        int N = Integer.parseInt(st.nextToken());
+        int L = Integer.parseInt(st.nextToken());
         Deque<Node> deque = new LinkedList<>();
+        st = new StringTokenizer(br.readLine());
         for (int i = 0; i < N; i++) {
-            int now = sc.nextInt();
+            int now = Integer.parseInt(st.nextToken());
             while (!deque.isEmpty() && deque.getLast().value > now) {
                 // 덱이 무언가 차있고
                 // 동시에 값 비교해서 현재 값보다 크면
@@ -22,8 +27,10 @@ public class _10_11003 {
             if (i - deque.getFirst().index >= L) {
                 deque.removeFirst();
             }
-            System.out.print(deque.getFirst().value + " ");
+            bw.write(deque.getFirst().value + " ");
         }
+        bw.flush();
+        bw.close();
     }
 
     static class Node {

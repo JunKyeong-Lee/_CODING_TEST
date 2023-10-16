@@ -1,8 +1,9 @@
 package chap03;
+// https://www.acmicpc.net/problem/11660
 
 import java.util.Scanner;
 
-public class _04_11660_1 {
+public class _004_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt(); // 표의 크기

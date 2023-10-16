@@ -1,8 +1,9 @@
 package chap03;
+// https://www.acmicpc.net/problem/11659
 
 import java.util.Scanner;
 
-public class _03_11659_1 {
+public class _003_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

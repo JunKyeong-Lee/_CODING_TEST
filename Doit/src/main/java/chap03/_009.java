@@ -1,8 +1,9 @@
 package chap03;
+// https://www.acmicpc.net/problem/12891
 
 import java.util.Scanner;
 
-public class _09_12891_1 {
+public class _009 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int S = sc.nextInt(); // 문자열 길이
@@ -40,15 +41,10 @@ public class _09_12891_1 {
         int j = P;
         int count = 0;
         while (true) {
-            if (find[4] == 0 &&
-                    find[0] >= minA &&
-                    find[1] >= minC &&
-                    find[2] >= minG &&
-                    find[3] >= minT) {
+            if (find[4] == 0 && find[0] >= minA && find[1] >= minC && find[2] >= minG && find[3] >= minT) {
                 count++;
             }
-            if (j == S)
-                break;
+            if (j == S) break;
             switch (str.charAt(i)) {
                 case 'A':
                     find[0]--;

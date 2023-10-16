@@ -1,11 +1,12 @@
 package chap03;
+// https://www.acmicpc.net/problem/11003
 
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class _10_11003_1 {
+public class _010_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Queue<Long> queue = new LinkedList<>();

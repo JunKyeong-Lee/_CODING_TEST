@@ -1,9 +1,10 @@
 package chap03;
+// https://www.acmicpc.net/problem/1253
 
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class _08_1253_1 {
+public class _008 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

@@ -2,7 +2,7 @@ package chap02;
 
 import java.util.Scanner;
 
-public class _01_LogicalError {
+public class LogicalError {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int testcase = sc.nextInt();
