@@ -50,51 +50,42 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\_CODING_TEST\Doit\src\main\java" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="chap03" />
       <recent name="chap02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션._013">
-    <configuration name="_010_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03._010_2" />
+  <component name="RunManager" selected="애플리케이션.Radix">
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Merge" />
       <module name="Doit.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03._011" />
+    <configuration name="Quick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quick" />
       <module name="Doit.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03._012" />
+    <configuration name="Radix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Radix" />
       <module name="Doit.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Radix" />
+        <item itemvalue="애플리케이션.Merge" />
+        <item itemvalue="애플리케이션.Quick" />
         <item itemvalue="애플리케이션._013" />
         <item itemvalue="애플리케이션._012_1" />
-        <item itemvalue="애플리케이션._012" />
-        <item itemvalue="애플리케이션._011" />
-        <item itemvalue="애플리케이션._010_2" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +140,8 @@
       <workItem from="1697414179229" duration="16799000" />
       <workItem from="1697445018468" duration="259000" />
       <workItem from="1697445453556" duration="87000" />
+      <workItem from="1697498230089" duration="5364000" />
+      <workItem from="1697503789258" duration="6027000" />
     </task>
     <servers />
   </component>
