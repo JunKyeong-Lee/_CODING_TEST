@@ -50,7 +50,11 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+<<<<<<< HEAD
     &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+=======
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+>>>>>>> dbc5ce96d45d72c560d1f1d05a935ab9168a0ae2
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -161,8 +165,12 @@
       <workItem from="1697445453556" duration="87000" />
       <workItem from="1697498230089" duration="5364000" />
       <workItem from="1697503789258" duration="6027000" />
+<<<<<<< HEAD
       <workItem from="1697633475991" duration="5482000" />
       <workItem from="1697723810944" duration="108000" />
+=======
+      <workItem from="1697587149769" duration="1848000" />
+>>>>>>> dbc5ce96d45d72c560d1f1d05a935ab9168a0ae2
     </task>
     <servers />
   </component>
