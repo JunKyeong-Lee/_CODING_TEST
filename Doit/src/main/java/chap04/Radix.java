@@ -1,3 +1,5 @@
+package chap04;
+
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -10,7 +12,7 @@ public class Radix {
         print(arr);
     }
 
-    private static void radixSort(int[] arr) {
+    static void radixSort(int[] arr) {
         int max = 0;
         for (var x : arr) {
             max = Math.max(x, max);

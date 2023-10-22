@@ -1,3 +1,5 @@
+package chap04;
+
 public class Merge {
     public static void main(String[] args) {
         int[] arr = {42, 32, 24, 60, 15, 5, 90, 45, 18, 30};
