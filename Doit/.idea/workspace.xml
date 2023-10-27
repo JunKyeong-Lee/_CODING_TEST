@@ -69,20 +69,7 @@
       <recent name="chap02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션._040">
-    <configuration name="_037" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07._037" />
-      <module name="Doit.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션._041">
     <configuration name="_038" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap07._038" />
       <module name="Doit.main" />
@@ -122,6 +109,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_041" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07._041" />
+      <module name="Doit.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="sqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap07.sqrt" />
       <module name="Doit.main" />
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션._041" />
         <item itemvalue="애플리케이션.sqrt" />
         <item itemvalue="애플리케이션._040" />
         <item itemvalue="애플리케이션._039" />
         <item itemvalue="애플리케이션._038" />
-        <item itemvalue="애플리케이션._037" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +170,7 @@
       <workItem from="1698151285118" duration="7486000" />
       <workItem from="1698234419838" duration="9646000" />
       <workItem from="1698277142062" duration="4333000" />
+      <workItem from="1698385529220" duration="4424000" />
     </task>
     <servers />
   </component>
