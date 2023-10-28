@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72643b46-3db4-4358-823f-b0e32e9b5ffb" name="변경" comment="" />
+    <list default="true" id="72643b46-3db4-4358-823f-b0e32e9b5ffb" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +53,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -69,48 +72,48 @@
       <recent name="chap02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션._041">
-    <configuration name="_038" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07._038" />
-      <module name="Doit.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_039" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07._039" />
-      <module name="Doit.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_040" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07._040" />
-      <module name="Doit.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션._044">
     <configuration name="_041" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap07._041" />
+      <module name="Doit.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_042" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07._042" />
+      <module name="Doit.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_043" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07._043" />
+      <module name="Doit.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07._044" />
       <module name="Doit.main" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션._044" />
+        <item itemvalue="애플리케이션._043" />
+        <item itemvalue="애플리케이션._042" />
         <item itemvalue="애플리케이션._041" />
         <item itemvalue="애플리케이션.sqrt" />
-        <item itemvalue="애플리케이션._040" />
-        <item itemvalue="애플리케이션._039" />
-        <item itemvalue="애플리케이션._038" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +174,8 @@
       <workItem from="1698234419838" duration="9646000" />
       <workItem from="1698277142062" duration="4333000" />
       <workItem from="1698385529220" duration="4424000" />
+      <workItem from="1698408806747" duration="11108000" />
+      <workItem from="1698462176648" duration="91000" />
     </task>
     <servers />
   </component>
@@ -200,6 +205,11 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -208,7 +218,16 @@
           <line>27</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/chap07/_044.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
