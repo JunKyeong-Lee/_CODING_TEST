@@ -2,7 +2,7 @@ package chap04;
 
 import java.util.Scanner;
 
-public class _03practice {
+public class _03Practice {
     public static void main(String[] args) {
         int[] dx = {2, 2, -2, -2, -1, 1, -1, 1};
         int[] dy = {-1, 1, -1, 1, 2, 2, -2, -2};

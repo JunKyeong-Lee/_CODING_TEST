@@ -2,7 +2,7 @@ package chap03;
 
 import java.util.Scanner;
 
-public class _01example {
+public class _01Example {
     public static void main1(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] coins = {500, 100, 50, 10};

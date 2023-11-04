@@ -2,7 +2,7 @@ package chap03;
 
 import java.util.*;
 
-public class _03practice {
+public class _03Practice {
     public static void main1(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] inputs = sc.nextLine().split(" ");

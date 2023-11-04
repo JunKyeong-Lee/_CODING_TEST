@@ -2,7 +2,7 @@ package chap04;
 
 import java.util.Scanner;
 
-public class _04practice {
+public class _04Practice {
     public static void main(String[] args) {
         String[] inputs;
         int[] dx = {-1, 0, 1, 0};

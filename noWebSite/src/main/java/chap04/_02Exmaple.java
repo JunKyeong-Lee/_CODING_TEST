@@ -2,7 +2,7 @@ package chap04;
 
 import java.util.Scanner;
 
-public class _02exmaple {
+public class _02Exmaple {
     public static void main1(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

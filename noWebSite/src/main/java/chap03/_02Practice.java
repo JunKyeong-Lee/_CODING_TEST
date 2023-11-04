@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class _02practice {
+public class _02Practice {
     public static void main1(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] inputs;
